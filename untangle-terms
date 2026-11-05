@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Terms of Use for Untangle, the Android game published by CLNTgames.">
+  <title>Terms of Use - Untangle</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.7; margin: 0; background: #f5f6fa; color: #222; }
+    .container { max-width: 900px; margin: 40px auto; background: #fff; padding: 40px; border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,.08); }
+    h1, h2 { color: #111; }
+    h2 { margin-top: 30px; }
+    .meta { color: #666; margin-bottom: 20px; }
+    ul { padding-left: 22px; }
+    a { color: #0b5bd3; }
+    .lang { margin-top: 60px; padding-top: 40px; border-top: 2px solid #eee; }
+    .notice { padding: 14px 16px; background: #fff8e6; border-left: 4px solid #d99b00; }
+    @media (max-width: 640px) { .container { margin: 0; padding: 22px; border-radius: 0; } }
+  </style>
+</head>
+<body>
+<div class="container">
+  <h1>Terms of Use</h1>
+  <p class="meta">Untangle · Last updated: November 5, 2026</p>
+  <p>These Terms of Use apply to the Android game <strong>Untangle</strong>, published under the name <strong>CLNTgames</strong> and distributed through Google Play. In these Terms, “we”, “us” and “our” refer to CLNTgames, the publisher of Untangle.</p>
+
+  <h2>1. Acceptance and scope</h2>
+  <p>By downloading, installing or using Untangle, you agree to these Terms. If you do not agree, do not use the game. These Terms apply to your use of the game; purchases made through Google Play may also be subject to Google Play’s separate terms and policies.</p>
+
+  <h2>2. The game and availability</h2>
+  <p>Untangle is a puzzle game designed to be playable offline, except for features that require an internet connection, such as rewarded advertisements and purchases or purchase restoration through Google Play. Features may depend on your device, Android version, internet connection and the availability of third-party services.</p>
+  <p>We may maintain, update, modify or discontinue all or part of the game where reasonably necessary, for example for security, technical, legal or gameplay reasons. Nothing in these Terms limits any mandatory rights you may have under applicable law in relation to paid digital content or services.</p>
+
+  <h2>3. Acceptable use</h2>
+  <p>You may use Untangle for personal, lawful, non-commercial entertainment. You must not misuse the game, interfere with its operation or security, attempt to gain unauthorised access to systems, or use cheats, exploits or automated methods to manipulate features or rewards.</p>
+  <p>You must not copy, modify, distribute, sell or commercially exploit the game or its content except where we have authorised this or applicable law expressly permits it. Nothing in these Terms restricts rights that cannot legally be excluded, including any mandatory rights relating to interoperability or permitted acts under copyright law.</p>
+
+  <h2>4. Ads and rewarded ads</h2>
+  <p>Untangle may display advertisements provided by third parties, including Google AdMob. Rewarded ads are optional. If you choose to watch one, the game may grant an in-game reward, such as a bonus or a continue option, as presented in the game at that time.</p>
+  <p>Reward availability may be subject to limits, technical conditions, ad availability, eligibility requirements and the rules of the advertising provider. We cannot guarantee that an advertisement will always be available. Do not interact with an advertisement unless you intend to do so.</p>
+  <p>Third-party advertising services may be governed by their own terms and privacy policies. For details about data processing, please read our <a href="https://cpiodev.github.io/untanglepub/">Privacy Policy</a> on our website.</p>
+
+  <h2>5. In-app purchases</h2>
+  <p>Untangle may offer optional in-app purchases. Prices, content and any applicable conditions are shown in Google Play or in the purchase flow before you confirm a transaction. Payments are processed by Google Play, and Google Play’s payment terms and procedures apply.</p>
+  <p>Some purchases may unlock features or content on a permanent basis, while other items may be consumable or subject to in-game limits, as described at the time of purchase. A purchase does not transfer ownership of the game or its intellectual property to you.</p>
+  <p>Purchase availability and restoration may depend on the Google account used for the transaction, Google Play services and the compatibility of your device. If a purchase is missing or a payment issue occurs, first check the relevant Google Play account and order history, and contact Google Play support where appropriate. You may also contact us using the details below.</p>
+  <p>Nothing in these Terms removes any refund, withdrawal, conformity or other consumer rights that apply to you under mandatory law or Google Play’s applicable policies. Refund requests are handled in accordance with the applicable Google Play process and law.</p>
+
+  <h2>6. Progress and local data</h2>
+  <p>Untangle stores certain gameplay progress and settings locally on your device, including level progression, unlocked chapters, bonus inventory, language and audio preferences, and information used to reflect purchase entitlements.</p>
+  <p>Unless the game explicitly states otherwise, we do not provide cloud synchronisation or a guarantee that progress can be transferred between devices. Uninstalling the game, clearing its storage, changing devices or experiencing a device failure may result in loss of local progress or settings. Before removing the app or clearing its data, consider whether you may lose information you wish to keep.</p>
+
+  <h2>7. Intellectual property</h2>
+  <p>Untangle and its game content, including its design, graphics, text, sounds, software and branding, are owned by us or licensed to us and are protected by applicable intellectual property laws. We grant you a limited, personal, non-exclusive, non-transferable and revocable licence to install and use the game for personal entertainment in accordance with these Terms.</p>
+  <p>No ownership rights are transferred to you. Any rights not expressly granted remain reserved by their respective owners.</p>
+
+  <h2>8. Third-party services</h2>
+  <p>Some features depend on third-party services, including Google Play Billing, Google Play services, Google’s consent tools and Google AdMob. We do not control third-party services and cannot guarantee their uninterrupted availability. Their own terms, policies and privacy notices may apply to your use of them.</p>
+
+  <h2>9. Disclaimers and liability</h2>
+  <p>We make reasonable efforts to keep the game functional, but we do not promise that it will be uninterrupted, error-free or compatible with every device or software configuration. To the extent permitted by applicable law, we are not responsible for issues caused by your device, operating system, network connection, third-party services or unauthorised modification of the game.</p>
+  <p>Nothing in these Terms excludes or limits liability where such exclusion or limitation is prohibited by law, nor does it limit mandatory consumer rights, including applicable legal guarantees for digital content and services. Where the law permits a limitation, our liability is limited to the extent legally allowed.</p>
+
+  <h2>10. Suspension or discontinuation</h2>
+  <p>We may restrict or discontinue access to all or part of the game if reasonably necessary for security, legal, technical or operational reasons, or if you materially breach these Terms. Where appropriate and legally required, we will take reasonable steps to inform users. This section does not override mandatory rights you may have concerning paid content or services.</p>
+
+  <h2>11. Changes to these Terms</h2>
+  <p>We may update these Terms from time to time. The latest version will be published on this page with its updated date. If a change materially affects users, we will take reasonable steps to provide notice where appropriate. Your continued use of the game after updated Terms take effect constitutes acceptance of the revised Terms to the extent permitted by law. If you do not agree to a change, you should stop using the game.</p>
+
+  <h2>12. Applicable law and consumer rights</h2>
+  <p>These Terms are intended to be interpreted in accordance with the laws of Luxembourg, without depriving consumers of any mandatory protections afforded by the laws that apply to them. If you are a consumer, nothing in this section prevents you from relying on mandatory consumer protection rules or bringing a claim before a court that has jurisdiction under applicable law.</p>
+
+  <h2>13. Contact</h2>
+  <p>For questions about Untangle or these Terms, contact:</p>
+  <p><strong>CLNTgames</strong><br>
+  Email: <a href="mailto:cpiodevx@gmail.com">cpiodevx@gmail.com</a><br>
+  Website: <a href="https://cpiodev.github.io/">https://cpiodev.github.io/</a></p>
+
+  <div class="lang">
+    <h1>Conditions d'utilisation</h1>
+    <p class="meta">Untangle · Dernière mise à jour : 5 novembre 2026</p>
+    <p>Les présentes conditions d'utilisation s'appliquent au jeu Android <strong>Untangle</strong>, publié sous le nom <strong>CLNTgames</strong> et distribué via Google Play. Dans ces conditions, « nous », « notre » et « nos » désignent CLNTgames, l'éditeur de Untangle.</p>
+
+    <h2>1. Acceptation et champ d'application</h2>
+    <p>En téléchargeant, installant ou utilisant Untangle, vous acceptez les présentes conditions. Si vous ne les acceptez pas, n'utilisez pas le jeu. Ces conditions encadrent l'utilisation du jeu ; les achats effectués via Google Play peuvent également être soumis aux conditions et règles propres à Google Play.</p>
+
+    <h2>2. Le jeu et sa disponibilité</h2>
+    <p>Untangle est un jeu de réflexion conçu pour être jouable hors ligne, à l'exception des fonctionnalités nécessitant une connexion Internet, telles que les annonces récompensées, les achats ou la restauration des achats via Google Play. Certaines fonctionnalités dépendent de votre appareil, de la version d'Android, de la connexion Internet et de la disponibilité des services tiers.</p>
+    <p>Nous pouvons assurer la maintenance, mettre à jour, modifier ou interrompre tout ou partie du jeu lorsque cela est raisonnablement nécessaire, notamment pour des raisons de sécurité, techniques, juridiques ou liées au gameplay. Aucune disposition des présentes conditions ne limite les droits impératifs dont vous pourriez bénéficier en vertu de la loi applicable concernant les contenus ou services numériques payants.</p>
+
+    <h2>3. Utilisation autorisée</h2>
+    <p>Vous pouvez utiliser Untangle à des fins personnelles, licites et de divertissement non commercial. Vous ne devez pas détourner le jeu de son usage, perturber son fonctionnement ou sa sécurité, tenter d'accéder sans autorisation à des systèmes, ni utiliser de triches, d'exploits ou de méthodes automatisées pour manipuler les fonctionnalités ou les récompenses.</p>
+    <p>Vous ne pouvez pas copier, modifier, distribuer, vendre ou exploiter commercialement le jeu ou son contenu, sauf autorisation de notre part ou disposition expresse de la loi applicable. Aucune disposition des présentes conditions ne restreint les droits qui ne peuvent légalement être exclus, notamment les droits impératifs relatifs à l'interopérabilité ou les actes autorisés par le droit d'auteur.</p>
+
+    <h2>4. Publicités et annonces récompensées</h2>
+    <p>Untangle peut afficher des publicités fournies par des tiers, notamment Google AdMob. Les annonces récompensées sont facultatives. Si vous choisissez d'en regarder une, le jeu peut accorder une récompense intégrée, par exemple un bonus ou la possibilité de continuer une partie, selon ce qui est indiqué dans le jeu au moment concerné.</p>
+    <p>Les récompenses peuvent être soumises à des limites, conditions techniques, disponibilités publicitaires, critères d'éligibilité et règles du fournisseur publicitaire. Nous ne garantissons pas qu'une annonce sera toujours disponible. N'interagissez avec une publicité que si vous le souhaitez.</p>
+    <p>Les services publicitaires tiers peuvent être soumis à leurs propres conditions et politiques de confidentialité. Pour plus d'informations sur le traitement des données, consultez notre <a href="https://cpiodev.github.io/untanglepub/">politique de confidentialité</a> sur notre site web.</p>
+
+    <h2>5. Achats intégrés</h2>
+    <p>Untangle peut proposer des achats intégrés facultatifs. Les prix, contenus et éventuelles conditions sont affichés dans Google Play ou dans le parcours d'achat avant la confirmation de la transaction. Les paiements sont traités par Google Play et sont soumis à ses conditions et procédures de paiement.</p>
+    <p>Certains achats peuvent débloquer des fonctionnalités ou contenus de manière permanente ; d'autres éléments peuvent être consommables ou soumis à des limites dans le jeu, comme indiqué au moment de l'achat. Un achat ne vous transfère aucun droit de propriété sur le jeu ou sa propriété intellectuelle.</p>
+    <p>La disponibilité des achats et leur restauration peuvent dépendre du compte Google utilisé pour la transaction, des services Google Play et de la compatibilité de votre appareil. Si un achat n'apparaît pas ou si un problème de paiement survient, vérifiez d'abord le compte concerné et l'historique des commandes Google Play, puis contactez l'assistance Google Play si nécessaire. Vous pouvez également nous contacter aux coordonnées ci-dessous.</p>
+    <p>Aucune disposition des présentes conditions ne supprime les droits au remboursement, à la rétractation, à la conformité ou les autres droits des consommateurs qui vous sont reconnus par la loi impérative ou les règles Google Play applicables. Les demandes de remboursement sont traitées conformément à la procédure Google Play applicable et à la loi.</p>
+
+    <h2>6. Progression et données locales</h2>
+    <p>Untangle stocke certaines données de jeu et certains réglages localement sur votre appareil, notamment la progression, les chapitres débloqués, l'inventaire de bonus, les préférences de langue et de son, ainsi que des informations permettant de refléter les droits liés aux achats.</p>
+    <p>Sauf indication expresse contraire dans le jeu, nous ne proposons pas de synchronisation dans le cloud et ne garantissons pas le transfert de la progression entre appareils. La désinstallation du jeu, l'effacement de son stockage, le changement d'appareil ou une panne de celui-ci peuvent entraîner la perte de la progression ou des réglages locaux. Avant de désinstaller l'application ou d'effacer ses données, tenez compte du risque de perdre des informations que vous souhaitez conserver.</p>
+
+    <h2>7. Propriété intellectuelle</h2>
+    <p>Untangle et son contenu, notamment son design, ses graphismes, textes, sons, logiciels et éléments de marque, appartiennent à nous-mêmes ou à nos concédants de licence et sont protégés par les lois applicables en matière de propriété intellectuelle. Nous vous accordons une licence limitée, personnelle, non exclusive, non transférable et révocable vous permettant d'installer et d'utiliser le jeu à des fins de divertissement personnel, conformément aux présentes conditions.</p>
+    <p>Aucun droit de propriété ne vous est transféré. Tous les droits qui ne vous sont pas expressément accordés restent réservés à leurs titulaires respectifs.</p>
+
+    <h2>8. Services tiers</h2>
+    <p>Certaines fonctionnalités reposent sur des services tiers, notamment Google Play Billing, les services Google Play, les outils de consentement de Google et Google AdMob. Nous ne contrôlons pas ces services et ne pouvons garantir leur disponibilité ininterrompue. Leurs propres conditions, règles et politiques de confidentialité peuvent s'appliquer à votre utilisation.</p>
+
+    <h2>9. Exclusions et limites de responsabilité</h2>
+    <p>Nous faisons des efforts raisonnables pour assurer le bon fonctionnement du jeu, sans toutefois garantir qu'il sera ininterrompu, exempt d'erreurs ou compatible avec tous les appareils et configurations logicielles. Dans la mesure permise par la loi applicable, nous ne sommes pas responsables des problèmes causés par votre appareil, votre système d'exploitation, votre connexion réseau, des services tiers ou une modification non autorisée du jeu.</p>
+    <p>Aucune disposition des présentes conditions n'exclut ou ne limite une responsabilité lorsque cette exclusion ou limitation est interdite par la loi, ni ne limite les droits impératifs des consommateurs, notamment les garanties légales de conformité applicables aux contenus et services numériques. Dans les limites autorisées par la loi, notre responsabilité est limitée dans la mesure légalement permise.</p>
+
+    <h2>10. Suspension ou interruption</h2>
+    <p>Nous pouvons restreindre ou interrompre l'accès à tout ou partie du jeu lorsque cela est raisonnablement nécessaire pour des raisons de sécurité, juridiques, techniques ou opérationnelles, ou en cas de violation substantielle des présentes conditions. Lorsque cela est approprié et légalement requis, nous prendrons des mesures raisonnables pour en informer les utilisateurs. Cette disposition ne prévaut pas sur les droits impératifs dont vous pourriez bénéficier concernant les contenus ou services payants.</p>
+
+    <h2>11. Modification des présentes conditions</h2>
+    <p>Nous pouvons mettre à jour les présentes conditions de temps à autre. La dernière version sera publiée sur cette page avec sa date de mise à jour. Si une modification affecte sensiblement les utilisateurs, nous prendrons des mesures raisonnables pour les en informer lorsque cela est approprié. Dans la mesure permise par la loi, la poursuite de l'utilisation du jeu après l'entrée en vigueur des conditions modifiées vaut acceptation de celles-ci. Si vous n'acceptez pas une modification, vous devez cesser d'utiliser le jeu.</p>
+
+    <h2>12. Droit applicable et droits des consommateurs</h2>
+    <p>Les présentes conditions ont vocation à être interprétées conformément au droit luxembourgeois, sans priver les consommateurs des protections impératives prévues par les lois qui leur sont applicables. Si vous êtes un consommateur, aucune disposition du présent article ne vous empêche d'invoquer les règles impératives de protection des consommateurs ou de saisir une juridiction compétente en vertu du droit applicable.</p>
+
+    <h2>13. Contact</h2>
+    <p>Pour toute question concernant Untangle ou les présentes conditions, vous pouvez nous contacter :</p>
+    <p><strong>CLNTgames</strong><br>
+    Email : <a href="mailto:cpiodevx@gmail.com">cpiodevx@gmail.com</a><br>
+    Site web : <a href="https://cpiodev.github.io/">https://cpiodev.github.io/</a></p>
+  </div>
+</div>
+</body>
+</html>
